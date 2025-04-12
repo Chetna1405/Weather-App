@@ -6,8 +6,8 @@ A MERN stack application that allows users to search for and view real-time weat
 
 ```
 weather-dashboard/
-├── client/               # React Frontend
-├── server/               # Node.js Backend
+├── frontend/               # React Frontend
+├── backend/               # Node.js Backend
 ├── .gitignore
 └── README.md
 ```
